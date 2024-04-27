@@ -41,6 +41,31 @@ const Header = () => {
                     0: {
                         items: 1,
                     },
+                    320: {
+                        items:3,
+                        itemsFit:'contain'
+
+
+                    },
+                    576: {
+                        items:3,
+                        itemsFit:'contain'
+
+
+                    },
+                    768: {
+                        items:3,
+                        itemsFit:'contain'
+
+
+                    },
+                    992: {
+                        items:3,
+                        itemsFit:'contain'
+
+
+                    },
+                    
                     1024: {
                         items: 3,
                         itemsFit: 'contain',
